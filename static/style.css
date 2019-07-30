@@ -1,1 +1,9 @@
-/* Put your CSS Styling here! */
+body {
+	background-color: magenta;
+	font-family: sans-serif;
+}
+#title {
+	font-family: serif;
+	font-style: italic;
+	margin-bottom: 
+}
